@@ -1,4 +1,4 @@
-# neumorphism-design
+# Neumorphism Web Design
 
 Salah satu tren desain UI yang kini tengah menjamur pada sistem operasi smartphone dan komputer adalah neumorphism. Konsep desain ini mulai pamor di pertengahan tahun 2020 dan Apple menjadi trendsetter-nya.
 
@@ -9,3 +9,6 @@ Tak hanya itu, konsep ini juga membuat tampilan di layar smartphone-mu lebih hid
 Seakan-akan kamu menekan tombol asli, bukan animasi dalam smartphone. 
 Dengan ini, pengguna akan lebih tahu mana komponen yang berupa tombol, indikator, dan hanya berupa pemanis. 
 
+Source code (buy me a coffee) :
+
+https://saweria.co/danuapratama
